@@ -1,0 +1,14 @@
+{
+  "name": "discord.js-template",
+  "version": "1.0.0",
+  "description": "A template of discord.js with handler",
+  "main": "index.js",
+  "repository": "https://github.com/ItzShubhamDev/Discord-Bot-Template",
+  "author": "ItzShubhamDev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "yaml": "^2.2.1"
+  }
+}
